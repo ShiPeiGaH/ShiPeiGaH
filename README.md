@@ -1,43 +1,54 @@
+<!-- Arli's animated RPG GitHub profile | Built with SVG + GitHub Actions -->
 <div align="center">
 
-# ⚔️ ARLI.EXE
-### 🕹️ COMPUTER ENGINEERING ADVENTURER
+<img src="https://raw.githubusercontent.com/ShiPeiGaH/ShiPeiGaH/main/assets/rpg-banner.svg" width="100%" alt="Animated neon RPG banner introducing Arli" />
 
-**Player:** Arli &nbsp; | &nbsp; **Guild:** Computer Engineering (S1) &nbsp; | &nbsp; **Class:** C Programmer
+<br/>
 
-*“Every expert was once a beginner. Every line of code earns XP.”*
+<a href="https://github.com/ShiPeiGaH">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=21&amp;duration=2600&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Computer+Engineering+Undergraduate;C+Programming+%E2%80%A2+Linux+%E2%80%A2+Computer+Systems;Grinding+XP%2C+One+Commit+at+a+Time" alt="Animated typing text introducing Arli" />
+</a>
 
-![Visitors](https://komarev.com/ghpvc/?username=ShiPeiGaH&label=PROFILE+VISITORS&style=for-the-badge&color=6d28d9)
-![Status](https://img.shields.io/badge/STATUS-ON_A_LEARNING_QUEST-22c55e?style=for-the-badge)
+<br/>
+
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=ShiPeiGaH&amp;label=PROFILE%20VISITORS&amp;style=for-the-badge&amp;color=7c3aed"/>
+<a href="https://github.com/ShiPeiGaH"><img alt="GitHub profile" src="https://img.shields.io/badge/PLAYER-ShiPeiGaH-17172e?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
+<img alt="Current quest" src="https://img.shields.io/badge/QUEST-LEARN_%26_BUILD-0891b2?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🧙 CHARACTER PROFILE
+## ⚔️ 01 // CHARACTER SELECT
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShiPeiGaH/ShiPeiGaH/main/assets/character-select.svg" width="100%" alt="Animated pixel RPG knight holding a sword with Arli's computer engineering profile" />
+</div>
+
+Hey! I'm **Arli**, an **S1 Computer Engineering undergraduate** (Bachelor's degree in Teknik Komputer). I write **C** and enjoy exploring **Linux** and the inner workings of computers.
+
+> **Origin story:** A curious engineering student on a quest to understand systems, write better code, and eventually build useful projects.
 
 ```text
-╔══════════════════════════════════════════════════╗
-║                  PLAYER: ARLI                    ║
-╠══════════════════════════════════════════════════╣
-║ CLASS      : Computer Engineering Student       ║
-║ MAIN SKILL : C Programming                      ║
-║ WORLD      : Linux & Computer Systems           ║
-║ MISSION    : Learn → Build → Improve             ║
-║ STATUS     : Grinding XP                         ║
-╚══════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════╗
+║                     CHARACTER SHEET                    ║
+╠════════════════════════════════════════════════════════╣
+║ NAME    : Arli                                          ║
+║ CLASS   : Computer Engineering Student                  ║
+║ WEAPON  : C Programming                                 ║
+║ WORLD   : Linux & Computer Systems                      ║
+║ STATUS  : Learning / Building                           ║
+║ MISSION : Keep improving, one project at a time         ║
+╚════════════════════════════════════════════════════════╝
 ```
 
-I'm **Arli**, a **Bachelor's student in Computer Engineering (S1 Teknik Komputer)**. I'm learning by exploring how computers work and turning ideas into code.
+## 🧬 02 // SKILL TREE
 
-## 🎮 SKILL TREE
-
-| Skill | RPG Status |
-| :--- | :--- |
-| 💻 **C Programming** | ⚔️ Equipped — practicing |
-| 🐧 **Linux** | 🗺️ Exploring |
-| 🧠 **Computer Systems** | 📖 Studying |
-| 🏗️ **Projects** | 🔓 Unlocking new quests |
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShiPeiGaH/ShiPeiGaH/main/assets/skill-tree.svg" width="100%" alt="Animated RPG skill bars for C programming, Linux, and computer systems" />
+  <br/>
+  <sub>Animated bars are decorative RPG effects, not proficiency scores.</sub>
+</div>
 
 <div align="center">
 
@@ -47,52 +58,64 @@ I'm **Arli**, a **Bachelor's student in Computer Engineering (S1 Teknik Komputer
 
 </div>
 
-## 📜 ACTIVE QUESTS
+## 📜 03 // ACTIVE QUEST LOG
 
-- [ ] 🗡️ Strengthen C programming fundamentals
-- [ ] 🧩 Build and publish small C projects
-- [ ] 🐧 Explore Linux tools and workflows
-- [ ] 🏆 Create a growing computer engineering portfolio
+| Quest | Objective | Progress |
+|:---|:---|:---|
+| ⚔️ **The C Chronicles** | Practice C fundamentals and problem solving | 🟣 In progress |
+| 🐧 **Linux Explorer** | Get more comfortable with Linux tools and workflows | 🟣 Exploring |
+| 🧠 **System Architect (Apprentice)** | Study computer organization and systems | 🟣 Learning |
+| 🏰 **Build a Portfolio** | Publish exercises, experiments, and useful projects | ⚪ Upcoming |
 
-## 🐍 CONTRIBUTION SNAKE — THE XP HUNTER
+**Current motto:** `learn(); practice(); improve();`
 
-<div align="center">
-
-![Snake eating GitHub contributions](https://raw.githubusercontent.com/ShiPeiGaH/ShiPeiGaH/output/github-contribution-grid-snake-dark.svg)
-
-*The snake eats contribution squares as your coding journey continues.*
-
-</div>
-
-> The animation is generated by GitHub Actions. It will appear after the workflow successfully runs for the first time.
-
-## 📊 PLAYER STATISTICS
+## 🐍 04 // THE CONTRIBUTION SNAKE
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShiPeiGaH&show_icons=true&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShiPeiGaH/ShiPeiGaH/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShiPeiGaH/ShiPeiGaH/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/ShiPeiGaH/ShiPeiGaH/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake travelling across Arli's GitHub contributions"/>
+</picture>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiPeiGaH&layout=compact&theme=tokyonight&hide_border=true)
+*The snake travels across the contribution grid. Re-generated daily by GitHub Actions.*
 
 </div>
 
-<sub>These charts are generated by a third-party service and may sometimes be unavailable. Language usage does not measure proficiency.</sub>
+## 📊 05 // PLAYER STATISTICS
 
-## 🏰 ACHIEVEMENT LOG
+<div align="center">
 
-- 🎓 **Academy Joined** — Pursuing a bachelor's degree in Computer Engineering
-- ⚔️ **First Weapon Equipped** — C programming
-- 🐧 **New Territory Discovered** — Linux
-- 📚 **Endless Learner** — More quests ahead
+<img src="https://github-readme-stats.vercel.app/api?username=ShiPeiGaH&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Arli's GitHub activity statistics"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiPeiGaH&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Languages found in public GitHub repositories"/>
+
+</div>
+
+<sub>GitHub stat widgets are powered by third-party services, so they may occasionally be unavailable. Language counts measure repository usage, not skill.</sub>
+
+## 🏆 06 // ACHIEVEMENT UNLOCKS
+
+| Badge | Achievement |
+|:---|:---|
+| 🎓 **Academy Joined** | Pursuing an undergraduate degree in Computer Engineering |
+| ⚔️ **First Weapon** | Learning and writing C |
+| 🐧 **New Territory** | Exploring Linux |
+| 🔮 **The Adventure Continues** | Learning something new, one step at a time |
 
 ---
 
 <div align="center">
 
-### ✨ NEXT LEVEL: UNKNOWN
+<img src="https://raw.githubusercontent.com/ShiPeiGaH/ShiPeiGaH/main/assets/quest-footer.svg" width="100%" alt="Animated pixel hero running across a neon RPG quest continues footer"/>
 
-**CODE • LEARN • EXPLORE • REPEAT**
+### 🤝 Party up!
 
-[![Visit GitHub](https://img.shields.io/badge/ENTER_MY_GITHUB-ShiPeiGaH-6d28d9?style=for-the-badge&logo=github)](https://github.com/ShiPeiGaH)
+Feel free to explore my repositories and follow my learning journey.
+
+<a href="https://github.com/ShiPeiGaH">
+  <img src="https://img.shields.io/badge/ENTER_MY_GITHUB-ShiPeiGaH-7c3aed?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit Arli on GitHub"/>
+</a>
 
 </div>
