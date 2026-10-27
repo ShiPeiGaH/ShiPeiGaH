@@ -16,14 +16,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVG
+      - name: Generate violet RPG contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ShiPeiGaH
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Publish SVGs to output branch
+            dist/github-contribution-grid-snake.svg?color_snake=#7c3aed&color_dots=#ebedf0,#ddd6fe,#c4b5fd,#a78bfa,#7c3aed
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#a78bfa&color_dots=#161b22,#312e81,#5b21b6,#7c3aed,#a78bfa
+
+      - name: Publish snake animations to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
