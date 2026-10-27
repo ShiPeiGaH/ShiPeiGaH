@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 156" width="1100" height="156" role="img" aria-label="Animated RPG quest continues footer with a running pixel hero">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#10132c"/><stop offset=".5" stop-color="#261440"/><stop offset="1" stop-color="#0c1b2e"/></linearGradient>
+<style><![CDATA[
+.star{animation:tw 2.8s ease-in-out infinite alternate}
+.runner{animation:run 9s linear infinite}.legs{animation:step .3s ease-in-out infinite alternate}
+.heart{animation:beat .85s ease-in-out infinite alternate}.trail{animation:dash 6s linear infinite}
+.cursor{animation:blink .85s steps(1) infinite}
+@keyframes tw{from{opacity:.06;transform:translateY(5px)}to{opacity:.65;transform:translateY(-7px)}}
+@keyframes run{0%{transform:translateX(-65px)}100%{transform:translateX(930px)}}
+@keyframes step{from{transform:translateY(0)}to{transform:translateY(6px)}}
+@keyframes beat{to{transform:scale(1.2)}}
+@keyframes dash{to{stroke-dashoffset:-140}}
+@keyframes blink{50%{opacity:0}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+]]></style></defs>
+<rect width="1100" height="156" rx="12" fill="url(#g)"/>
+<rect x="8" y="8" width="1084" height="140" rx="8" fill="none" stroke="#a78bfa" stroke-width="2" opacity=".6"/>
+<rect x="14" y="19" width="5" height="5" fill="#a78bfa" opacity=".36" class="star" style="animation-delay:0s"/><rect x="85" y="48" width="3" height="3" fill="#67e8f9" opacity=".36" class="star" style="animation-delay:0.17s"/><rect x="156" y="77" width="3" height="3" fill="#a78bfa" opacity=".36" class="star" style="animation-delay:0.34s"/><rect x="227" y="106" width="3" height="3" fill="#67e8f9" opacity=".36" class="star" style="animation-delay:0.51s"/><rect x="298" y="10" width="3" height="3" fill="#a78bfa" opacity=".36" class="star" style="animation-delay:0.68s"/><rect x="369" y="39" width="5" height="5" fill="#67e8f9" opacity=".36" class="star" style="animation-delay:0.8500000000000001s"/><rect x="440" y="68" width="3" height="3" fill="#a78bfa" opacity=".36" class="star" style="animation-delay:1.02s"/><rect x="511" y="97" width="3" height="3" fill="#67e8f9" opacity=".36" class="star" style="animation-delay:1.1900000000000002s"/><rect x="582" y="1" width="3" height="3" fill="#a78bfa" opacity=".36" class="star" style="animation-delay:1.36s"/><rect x="653" y="30" width="3" height="3" fill="#67e8f9" opacity=".36" class="star" style="animation-delay:1.53s"/><rect x="724" y="59" width="5" height="5" fill="#a78bfa" opacity=".36" class="star" style="animation-delay:1.7000000000000002s"/><rect x="795" y="88" width="3" height="3" fill="#67e8f9" opacity=".36" class="star" style="animation-delay:1.87s"/><rect x="866" y="117" width="3" height="3" fill="#a78bfa" opacity=".36" class="star" style="animation-delay:2.04s"/><rect x="937" y="21" width="3" height="3" fill="#67e8f9" opacity=".36" class="star" style="animation-delay:2.21s"/><rect x="1008" y="50" width="3" height="3" fill="#a78bfa" opacity=".36" class="star" style="animation-delay:2.3800000000000003s"/><rect x="1079" y="79" width="5" height="5" fill="#67e8f9" opacity=".36" class="star" style="animation-delay:2.5500000000000003s"/><rect x="70" y="108" width="3" height="3" fill="#a78bfa" opacity=".36" class="star" style="animation-delay:2.72s"/><rect x="141" y="12" width="3" height="3" fill="#67e8f9" opacity=".36" class="star" style="animation-delay:2.89s"/><rect x="212" y="41" width="3" height="3" fill="#a78bfa" opacity=".36" class="star" style="animation-delay:3.06s"/><rect x="283" y="70" width="3" height="3" fill="#67e8f9" opacity=".36" class="star" style="animation-delay:3.2300000000000004s"/><rect x="354" y="99" width="5" height="5" fill="#a78bfa" opacity=".36" class="star" style="animation-delay:3.4000000000000004s"/><rect x="425" y="3" width="3" height="3" fill="#67e8f9" opacity=".36" class="star" style="animation-delay:3.5700000000000003s"/><rect x="496" y="32" width="3" height="3" fill="#a78bfa" opacity=".36" class="star" style="animation-delay:3.74s"/><rect x="567" y="61" width="3" height="3" fill="#67e8f9" opacity=".36" class="star" style="animation-delay:3.91s"/><rect x="638" y="90" width="3" height="3" fill="#a78bfa" opacity=".36" class="star" style="animation-delay:4.08s"/><rect x="709" y="119" width="5" height="5" fill="#67e8f9" opacity=".36" class="star" style="animation-delay:4.25s"/><rect x="780" y="23" width="3" height="3" fill="#a78bfa" opacity=".36" class="star" style="animation-delay:4.42s"/><rect x="851" y="52" width="3" height="3" fill="#67e8f9" opacity=".36" class="star" style="animation-delay:4.590000000000001s"/><rect x="922" y="81" width="3" height="3" fill="#a78bfa" opacity=".36" class="star" style="animation-delay:4.760000000000001s"/><rect x="993" y="110" width="3" height="3" fill="#67e8f9" opacity=".36" class="star" style="animation-delay:4.930000000000001s"/>
+<g font-family="DejaVu Sans,Verdana,sans-serif">
+ <text x="550" y="59" text-anchor="middle" fill="#e9d5ff" font-size="30" font-weight="900" letter-spacing="4">QUEST CONTINUES...</text>
+ <text x="550" y="90" text-anchor="middle" fill="#67e8f9" font-size="17" font-weight="700" letter-spacing="3">CODE  •  LEARN  •  EXPLORE  •  REPEAT</text>
+ <rect x="892" y="74" width="11" height="20" fill="#67e8f9" class="cursor"/>
+</g>
+<path d="M42 126 H1058" stroke="#a78bfa" stroke-width="3" stroke-dasharray="12 14" opacity=".75" class="trail"/>
+<g transform="translate(44 102)" class="runner" shape-rendering="crispEdges">
+ <rect x="9" y="-28" width="28" height="11" fill="#a78bfa"/>
+ <rect x="5" y="-17" width="38" height="15" fill="#f6d4c3"/>
+ <rect x="11" y="-12" width="5" height="5" fill="#0f172a"/>
+ <rect x="26" y="-12" width="5" height="5" fill="#0f172a"/>
+ <rect x="5" y="-1" width="37" height="20" fill="#6d28d9"/>
+ <rect x="-3" y="3" width="9" height="15" fill="#67e8f9"/>
+ <rect x="43" y="3" width="9" height="15" fill="#67e8f9"/>
+ <g class="legs"><rect x="7" y="19" width="12" height="9" fill="#a78bfa"/><rect x="29" y="19" width="12" height="9" fill="#a78bfa"/></g>
+ <rect x="52" y="-29" width="6" height="37" fill="#67e8f9"/><rect x="46" y="7" width="18" height="5" fill="#c4b5fd"/>
+</g>
+</svg>
